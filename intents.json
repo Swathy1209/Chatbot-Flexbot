@@ -1,0 +1,114 @@
+{
+  "intents": [
+    {
+      "tag": "prevent_injuries",
+      "patterns": [
+        "How can I prevent injuries during weightlifting?",
+        "What are the best practices to avoid injuries while lifting weights?",
+        "Tips to prevent weightlifting injuries"
+      ],
+      "responses": [
+        "To prevent injuries during weightlifting:\n1. Warm up properly before starting your workout.\n2. Use proper form and technique.\n3. Start with lighter weights before progressing to heavier ones.\n4. Avoid overtraining and give your muscles enough recovery time.\n5. Wear appropriate shoes and use weightlifting belts for heavy lifts."
+      ]
+    },
+    {
+      "tag": "muscle_strain_treatment",
+      "patterns": [
+        "What should I do if I have a muscle strain after a workout?",
+        "How to treat muscle strain post-exercise?",
+        "Remedies for muscle strain after working out"
+      ],
+      "responses": [
+        "For a muscle strain, follow the R.I.C.E method:\n- Rest: Avoid activities that cause pain.\n- Ice: Apply ice packs for 15–20 minutes every few hours.\n- Compression: Use a bandage to reduce swelling.\n- Elevation: Keep the injured area elevated above heart level.\nIf the pain persists, consult a healthcare professional."
+      ]
+    },
+    {
+      "tag": "joint_pain_causes",
+      "patterns": [
+        "I feel joint pain after my gym sessions. What could be causing it?",
+        "Why do my joints hurt after exercising?",
+        "Causes of joint pain post-workout"
+      ],
+      "responses": [
+        "Joint pain after gym sessions could be due to improper technique, overtraining, or lack of proper warm-up and cool-down. Ensure your form is correct, take rest days, and consider using joint support like braces if needed. If pain persists or worsens, consult a physiotherapist."
+      ]
+    },
+    {
+      "tag": "dehydration_signs",
+      "patterns": [
+        "How do I know if I’m dehydrated during my workout?",
+        "Signs of dehydration while exercising",
+        "How to tell if I'm dehydrated during a workout"
+      ],
+      "responses": [
+        "Signs of dehydration include:\n- Feeling dizzy or lightheaded\n- Dry mouth or extreme thirst\n- Fatigue and muscle cramps\n- Dark yellow urine\nDrink water regularly and consider electrolyte drinks if your workout lasts more than an hour or involves intense sweating."
+      ]
+    },
+    {
+      "tag": "doms_causes",
+      "patterns": [
+        "What causes delayed onset muscle soreness (DOMS) after a workout?",
+        "Why do my muscles hurt days after exercising?",
+        "Explanation for muscle soreness a day after workout"
+      ],
+      "responses": [
+        "Delayed onset muscle soreness (DOMS) occurs due to microscopic damage to muscle fibers from intense exercise. It typically peaks 24 to 72 hours post-workout. To alleviate it, try gentle stretching, foam rolling, staying hydrated, and light activity to increase blood flow."
+      ]
+    },
+    {
+      "tag": "shin_splints_treatment",
+      "patterns": [
+        "How do I treat shin splints caused by running?",
+        "Remedies for shin splints from running",
+        "Treatment options for shin splints"
+      ],
+      "responses": [
+        "To treat shin splints:\n1. Rest and reduce activities that cause pain.\n2. Apply ice to the shin for 15-20 minutes, multiple times a day.\n3. Use supportive footwear and consider arch supports.\n4. Stretch and strengthen your calves and shin muscles.\nConsult a doctor if pain persists."
+      ]
+    },
+    {
+      "tag": "post_workout_dizziness",
+      "patterns": [
+        "Why do I feel dizzy after a workout?",
+        "Causes of dizziness post-exercise",
+        "Reasons for feeling lightheaded after working out"
+      ],
+      "responses": [
+        "Feeling dizzy after a workout can result from dehydration, low blood sugar, or a sudden drop in blood pressure. Ensure you hydrate well, eat a balanced meal or snack before exercising, and avoid stopping abruptly by cooling down properly after your workout."
+      ]
+    },
+    {
+      "tag": "lower_back_injury",
+      "patterns": [
+        "What should I do if I injure my lower back while deadlifting?",
+        "How to handle a lower back injury from deadlifting",
+        "Steps to take after hurting back during deadlift"
+      ],
+      "responses": [
+        "If you injure your lower back while deadlifting:\n1. Stop the activity immediately to prevent further injury.\n2. Apply ice to reduce swelling.\n3. Avoid heavy lifting and sudden movements.\n4. Consider gentle stretching and see a physiotherapist for a proper evaluation."
+      ]
+    },
+    {
+      "tag": "sprain_vs_fracture",
+      "patterns": [
+        "How can I tell if I have a sprain or a fracture?",
+        "Differences between a sprain and a fracture",
+        "How to identify a sprain versus a fracture"
+      ],
+      "responses": [
+        "A sprain involves ligament damage, while a fracture is a break in the bone. Sprains often cause swelling, bruising, and pain during movement, while fractures usually cause severe pain, deformity, or an inability to bear weight. Seek medical attention for a proper diagnosis."
+      ]
+    },
+    {
+      "tag": "working_out_with_cold",
+      "patterns": [
+        "Is it safe to work out when I have a cold?",
+        "Can I exercise with a cold?",
+        "Should I go to the gym if I'm sick with a cold?"
+      ],
+      "responses": [
+        "If your cold symptoms are mild and above the neck (like a runny nose or sore throat), light exercise is generally safe. However, avoid working out if you have a fever, body aches, or chest congestion, as it may worsen your condition."
+      ]
+    }
+  ]
+}
